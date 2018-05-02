@@ -6,10 +6,11 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.ArrayList;
 import java.util.List;
-
+tomorrow 
 @Document(collection = "pizza")
 public class Pizza {
 Peofessor charo pra c;..... mas amo 
+chatooooooooooooo
     @Id
     private String id;
 
@@ -20,7 +21,7 @@ Peofessor charo pra c;..... mas amo
     public List<String> getFlavours() {
 		return flavours;
 	}
-
+amanha 
 	public void setFlavours(List<String> flavours) {
 		this.flavours = flavours;
 	}
