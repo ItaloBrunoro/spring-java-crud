@@ -9,7 +9,7 @@ import java.util.List;
 
 @Document(collection = "pizza")
 public class Pizza {
-
+Peofessor charo pra c;..... mas amo 
     @Id
     private String id;
 
