@@ -15,7 +15,7 @@ Learn how to start spring-boot app.
 ## Stack
 Learn basic project structure.
 
-- Additional libs
+- Additional libs 
 - Create first mongodb document.
 - Create fisrt mongodb repository.
 - Create first business service.
